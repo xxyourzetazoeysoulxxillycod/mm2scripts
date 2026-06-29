@@ -275,7 +275,7 @@ local function SpawnCustom(query)
 end
 
 -- ── GUI ────────────────────────────────────────────────────────────────────
-local old = PlayerGui:FindFirstChild("MM2SpawnerMolly")
+local old = PlayerGui:FindFirstChild("ZetaScripts(last4zeta on tt))
 if old then old:Destroy() end
 
 local ScreenGui = Instance.new("ScreenGui")
@@ -309,7 +309,7 @@ do local c = Instance.new("UICorner"); c.CornerRadius = UDim.new(0,12); c.Parent
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1,-8,1,0); Title.Position = UDim2.new(0,8,0,0)
 Title.BackgroundTransparency = 1
-Title.Text = "⚔️  MM2 SPAWNER BY MOLLY  ⚔️"
+Title.Text = "ZetaScripts(last4zeta on tt)
 Title.Font = Enum.Font.FredokaOne; Title.TextSize = 10
 Title.TextColor3 = Color3.fromRGB(255,255,255)
 Title.TextXAlignment = Enum.TextXAlignment.Left
