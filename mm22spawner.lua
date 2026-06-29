@@ -1,5 +1,4 @@
--- MM2 SPAWNER BY MOLLY  v4
--- Strict filtering: only uses real database fields, no guessing
+
 
 local Players           = game:GetService("Players")
 local TweenService      = game:GetService("TweenService")
